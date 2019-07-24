@@ -1,2 +1,0 @@
-# monorepo
-Main mono-repo

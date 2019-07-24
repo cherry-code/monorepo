@@ -1,0 +1,13 @@
+{
+  "name": "@cherrycode/button",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "dependencies": {
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "styled-components": "4.1.3"
+  }
+}
